@@ -1,6 +1,6 @@
 # 🏠 Final Project: House Sales in King County, USA  
 **Author:** Denis Naumov  
-
+**Location:** Germany
 ---
 
 ## 📘 Overview
